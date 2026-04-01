@@ -14,6 +14,6 @@ This repository includes both executable files and full source code to support r
 * Adjustable internal digital filter (cutoff frequency selection)
 * Data logging for analysis and validation
 * Example implementation for quick integration
-
+ 
 ## Note
 This software is provided as a reference example. Users are encouraged to modify and extend it according to their specific application requirements.
